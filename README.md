@@ -23,7 +23,8 @@ https://www.youtube.com/watch?v=K1_8EqCJlwo
 https://www.youtube.com/watch?v=VH-PCQ991fw
 http://schubert.atmos.colostate.edu/~cslocum/netcdf_example.html
 extension://bfdogplmndidlpjfhoijckpakkdjkkil/pdf/viewer.html?file=https%3A%2F%2Flpdaac.usgs.gov%2Fdocuments%2F133%2FVNP14_ATBD.pdf
-
+https://www.youtube.com/watch?v=Qu_givjJzds
+https://scikit-image.org/docs/0.13.x/auto_examples/xx_applications/plot_thresholding.html
 
 Bands Information 
 
