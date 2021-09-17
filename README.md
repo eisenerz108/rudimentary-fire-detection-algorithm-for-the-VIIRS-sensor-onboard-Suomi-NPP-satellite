@@ -33,3 +33,7 @@ https://en.wikipedia.org/wiki/Visible_Infrared_Imaging_Radiometer_Suite
 ![img1.png](images/img.png)
 
 
+![img.png](output/hotspot_points_keplergl.png)
+
+
+
