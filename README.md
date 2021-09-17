@@ -7,7 +7,7 @@
 * [Data Information](#data-information)
 * [Understanding the Data set](#understanding-the-data)
 * [Finding Hotspots](#finding-hotspots)
-* [Conclusion](#conclusion)
+* [Output](#output)
 * [References](#references)
   
 ## Challenge Information 
@@ -34,14 +34,16 @@ observation data file)
 
 
 ## Finding Hotspots
-* I tried to run a filter and store the image in the `output\
+* I tried to run a filter and store the image in the `output\binarythreshold_image.png` but my system was really low on memory and it started to freeze. 
+* I converted all the data into a dataframe (And GeoDataFrame) and manually filtered the fire_radiance value >0.85 to detect hotspots. 
 
 
+## Output
 
-Bands Information 
-
-
-
+* The output of the hotspots locations from the KeplerGL is stored in `output\hotspots_locations.html`. 
+* The images of the hotspots locations from the KeplerGL is stored in `output\hotspot_heatmap_densitybased.png`, `output\hotspot_heatmap_radiancebased.png` and `output\hotspot_points_keplergl.png`
+* The hotspots location in the csv format is stored in `output\hotspots_locations.csv`.
+* The hotspots location in the geojson format is stored in `output\hotspots_locations.geojson`.
 
 
 ## References 
