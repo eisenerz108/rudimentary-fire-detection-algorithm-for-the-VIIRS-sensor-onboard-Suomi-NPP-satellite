@@ -66,5 +66,3 @@ extension://bfdogplmndidlpjfhoijckpakkdjkkil/pdf/viewer.html?file=https%3A%2F%2F
 https://www.youtube.com/watch?v=Qu_givjJzds
 * <a id="9">[9]</a>
 https://scikit-image.org/docs/0.13.x/auto_examples/xx_applications/plot_thresholding.html
-
-
