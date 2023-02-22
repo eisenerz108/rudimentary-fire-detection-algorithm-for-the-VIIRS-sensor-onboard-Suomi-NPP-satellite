@@ -1,8 +1,8 @@
-# Aman_GIS_OroraTech_Challenge
+# Rudimentary fire detection algorithm for the VIIRS sensor onboard Suomi-NPP satellite
 
 
 ## Contents : 
-* [Challenge Information](#challenge-information)
+* [Task Information](#task-information)
 * [Tools Used](#tools-used)
 * [Data Information](#data-information)
 * [Understanding the Data set](#understanding-the-data)
@@ -10,7 +10,7 @@
 * [Output](#output)
 * [References](#references)
   
-## Challenge Information 
+## Task Information 
 
 * Rudimentary fire detection algorithm for the VIIRS sensor onboard Suomi-NPP satellite
 
