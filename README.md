@@ -1,6 +1,5 @@
 # Rudimentary fire detection algorithm for the VIIRS sensor onboard Suomi-NPP satellite
 
-
 ## Contents : 
 * [Task Information](#task-information)
 * [Tools Used](#tools-used)
